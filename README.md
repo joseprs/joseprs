@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 
-🙋🏼‍♂️ My name is **Josep Reverter**, and I am **passionate about Data Science and Data Analytics**. I have professional experience in a leading insurance firm in Spain, as well as in a small company working on an innovative and high-growth project.
+🙋🏼‍♂️ My name is **Josep Reverter**, and I am **passionate about Data Science and Data Analytics**. I have professional experience in a leading insurance firm, as well as in a start-upf working on an innovative and high-growth project.
 
 💬 I've always enjoyed working on side projects outside of my job, whether it's taking courses, conducting research, reading articles, or **working on personal projects to improve my skills on a day-to-day basis**.
 
