@@ -10,7 +10,7 @@
 
 🔭 **The aim of this repository is twofold**: it serves as a version control system for my personal projects, and also **a platform to showcase and consolidate all my work for sharing**. Visitors can explore, gather inspiration, and get insights into my working methods.
 
-⚽ My hobbies are Football, Trekking, and Guitar.
+⚽ My hobbies are **Football, Trekking, and Guitar**.
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/josep-reverter-sancho-26516b1a2/">
