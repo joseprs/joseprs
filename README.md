@@ -18,9 +18,14 @@
   </a>
 </div>
 
+
 ### Projects
 
-**1. FlatsHousesStudyBCN**: Where (1) I gather values and characteristics of real estate flats for sale in Barcelona (using web scraping techniques), (2) conduct an end-to-end analysis and create a regression model, (3) analyze prices per square meter and by neighborhood, and (4) perform an analysis and extract interesting insights by correlating flat values with salaries and calculating mortgages.
+**1. FlatsHousesStudyBCN**:
+- **Flats Web Scraping** *(1.scraping_request.ipynb):* I gather values and characteristics of real estate flats for sale in Barcelona (using web scraping techniques).
+- **End-to-end Creation of a Flat Value Predictor** *(2.flat_prices_predictor.ipynb)*: I conduct an end-to-end analysis and create a regression model.
+- **Value, Value per sqm, and Neighbourhgood Analysis** *(3.value_and_price_per_sqm.ipynb)*: I analyze prices per square meter and by neighborhood.
+- **Mortgage/Salary-oriented analysis** *(4.analysis_salary_and_mortgage.ipynb)*: I perform an analysis and extract interesting insights by correlating flat values with salaries and calculating mortgages.
 
 **2. KaggleHousePricesPrediction**: Typical initial Kaggle competition. Really interesting Exploratory Data Analysis and Feature Engineering.
 
