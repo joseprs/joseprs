@@ -21,7 +21,7 @@
 
 ### Projects
 
-**1. FlatsHousesStudyBCN**: Where I conduct an **end-to-end study and analysis of real estate properties for sale in Barcelona**. First, I develop the data acquisition process. Then, I create a Regression Model to predict the value of new properties, going through all the phases of a Data Science project. And finally, I perform analyses to extract interesting conclusions about prices, mortgages, and neighborhoods.
+**1. FlatsHousesStudyBCN**: Where I build a **Flat Value Regressor** and I conduct an **end-to-end study and analysis of real estate properties for sale in Barcelona**. First, I develop the data acquisition process. Then, I create a Regression Model to predict the value of new properties, going through all the phases of a Data Science project. And finally, I perform analyses to extract interesting conclusions about prices, mortgages, and neighborhoods.
 
 Here are the four parts with their respective Notebooks. **Each Notebook contains explanations, the process, and conclusions of the analysis.**
 
