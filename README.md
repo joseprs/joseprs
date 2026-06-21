@@ -21,19 +21,9 @@
 
 ### Projects
 
-**1. FlatsHousesStudyBCN**: Where I build a **Flat Value Regressor** and I conduct an **end-to-end study and analysis of real estate properties for sale in Barcelona**. First, I develop the **data acquisition** process throug Web Scraping. Then, I create a **Flat Value Regressor** to predict the value of new properties, going through all the phases of a **Data Science project**. And finally, I perform analyses to extract interesting **conclusions** and **insights** about prices, mortgages, and neighborhoods.
+**1. Barcelona Flats end-to-end**: Where I build a **Flat Value Regressor** and I conduct an **end-to-end study and analysis of real estate properties for sale in Barcelona**. First, I develop the **data acquisition** process throug Web Scraping. Then, I create a **Flat Value Regressor** to predict the value of new properties, going through all the phases of a **Data Science project**. And finally, I perform analyses to extract interesting **conclusions** and **insights** about prices, mortgages, and neighborhoods.
 
-**2. KaggleHousePricesPrediction**: Typical initial Kaggle competition. Really interesting Exploratory Data Analysis and Feature Engineering.
-
-**3. KaggleEnergyBehaviour**: Kaggle competition regression model to predict the energy consumption and production of costumers.
-
-**4. KaggleFraudDetection**: Kaggle competition to predict credit-card fraud detection.
-
-**5. ActionClassification**: My undergraduate thesis called "Football Action Classification using Face Emotion Features".
-
-**6. StolenMotorbikes**: Selection process test where I had to analyze the situation of stolen motorbikes in Spain during the last years to decide whether to push forward a functionality. Successfully passed.
-
-**7. ProgrammingTest**: Programming test as part of a selection process. Successfully passed.
+**2. Stolen Motorbikes Analysis**: Selection process test where I had to analyze the situation of stolen motorbikes in Spain during the last years to decide whether to push forward a functionality. Successfully passed.
 
 
 <!--
