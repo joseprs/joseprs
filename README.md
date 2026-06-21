@@ -21,7 +21,7 @@
 
 ### Projects (Pinned below)
 
-**1. Barcelona Flats end-to-end**: Where I build a **Flat Value Regressor** and I conduct an **end-to-end study and analysis of real estate properties for sale in Barcelona**. First, I develop the **data acquisition** process throug Web Scraping. Then, I create a **Flat Value Regressor** to predict the value of new properties, going through all the phases of a **Data Science project**. And finally, I perform analyses to extract interesting **conclusions** and **insights** about prices, mortgages, and neighborhoods.
+**1. Barcelona housing market end-to-end**: Where I build a **Flat Value Regressor** and I conduct an **end-to-end study and analysis of real estate properties for sale in Barcelona**. First, I develop the **data acquisition** process throug Web Scraping. Then, I create a **Flat Value Regressor** to predict the value of new properties, going through all the phases of a **Data Science project**. And finally, I perform analyses to extract interesting **conclusions** and **insights** about prices, mortgages, and neighborhoods.
 
 **2. Stolen Motorbikes Analysis**: Selection process test where I had to analyze the situation of stolen motorbikes in Spain during the last years to decide whether to push forward a functionality. Successfully passed.
 
