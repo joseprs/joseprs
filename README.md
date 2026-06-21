@@ -19,7 +19,7 @@
 </div>
 
 
-### Projects
+### Projects (Pinned below)
 
 **1. Barcelona Flats end-to-end**: Where I build a **Flat Value Regressor** and I conduct an **end-to-end study and analysis of real estate properties for sale in Barcelona**. First, I develop the **data acquisition** process throug Web Scraping. Then, I create a **Flat Value Regressor** to predict the value of new properties, going through all the phases of a **Data Science project**. And finally, I perform analyses to extract interesting **conclusions** and **insights** about prices, mortgages, and neighborhoods.
 
